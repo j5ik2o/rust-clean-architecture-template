@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.82"
 chrono = "0.4.38"
-downcast-rs = "1.2.1"
+downcast-rs = "2.0.0"
